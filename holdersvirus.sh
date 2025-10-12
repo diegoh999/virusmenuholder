@@ -16,7 +16,7 @@ echo '[ 2 ]  Hack Diamantes Free Fire.apk'
 
 sleep 0.1
 
-echo '[ 3 ]  Porno infantil.apk'
+echo '[ 3 ]  lol.apk'
 
 sleep 0.1
 
